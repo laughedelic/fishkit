@@ -35,7 +35,6 @@ fishkit plugin
 ❯ What's your plugin name? tron
 ❯ What's your plugin about? It's just pong
 ❯ What's your GitHub username? flynn
-    ✓ Creating tron from plugin template
     .editorconfig
     .gitignore
     .travis.yml
@@ -48,10 +47,8 @@ fishkit plugin
 ## Strings
 
 ```
-fishkit TEMPLATE - < strings.yml
+fishkit TEMPLATE < strings.yml
 ```
-
-strings.yml
 
 ```yml
 name: tron
