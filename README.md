@@ -3,7 +3,7 @@
 
 # fishkit
 
-Create a plugin from a template.
+Plugin template scaffolder for [fish]. 
 
 ## Install
 
@@ -76,3 +76,5 @@ The available templates are:
 [Plugin]: https://github.com/fisherman/fishkit/tree/master/templates/plugin
 [Prompt]: https://github.com/fisherman/fishkit/tree/master/templates/prompt
 [Snippet]: https://github.com/fisherman/fishkit/tree/master/templates/snippet
+
+[fish]: https://fishshell.com
