@@ -3,7 +3,7 @@
 
 # fishkit
 
-Plugin template scaffolder for [fish]. 
+Plugin scaffolder for [fish].
 
 ## Install
 
